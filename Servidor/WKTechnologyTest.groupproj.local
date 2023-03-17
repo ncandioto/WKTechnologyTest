@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/03/16 21:47:25.000.722,C:\Users\Nathan\Documents\Embarcadero\Studio\Projects\ProjectGroup1.groupproj=C:\WKTechnology\Servidor\WKTechnologyTest.groupproj</Transaction>
+  </Transactions>
+	<Default.Personality>
+		<Projects ActiveProject="C:\WKTechnology\Cliente\Cliente.dproj"/>
+	</Default.Personality>
+</BorlandProject>

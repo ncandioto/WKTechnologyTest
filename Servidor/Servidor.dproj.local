@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/03/16 21:40:06.000.060,=C:\Users\Nathan\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/03/16 21:41:47.000.946,C:\Users\Nathan\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\WKTechnology\Servidor\UServidor.dfm</Transaction>
+    <Transaction>2023/03/16 21:41:47.000.946,C:\Users\Nathan\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\WKTechnology\Servidor\UServidor.pas</Transaction>
+    <Transaction>2023/03/16 21:41:51.000.489,C:\Users\Nathan\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\WKTechnology\Servidor\Servidor.dproj</Transaction>
+    <Transaction>2023/03/16 21:42:31.000.508,=C:\WKTechnology\Servidor\Unit1.pas</Transaction>
+    <Transaction>2023/03/16 21:43:51.000.106,C:\WKTechnology\Servidor\Unit1.pas=C:\WKTechnology\Servidor\UClasses.pas</Transaction>
+    <Transaction>2023/03/16 22:39:27.000.052,=C:\WKTechnology\Servidor\Unit1.pas</Transaction>
+    <Transaction>2023/03/16 22:41:12.000.013,C:\WKTechnology\Servidor\ServerMethods.dfm=C:\WKTechnology\Servidor\Unit1.dfm</Transaction>
+    <Transaction>2023/03/16 22:41:12.000.013,C:\WKTechnology\Servidor\ServerMethods.pas=C:\WKTechnology\Servidor\Unit1.pas</Transaction>
+    <Transaction>2023/03/17 11:00:45.000.214,=C:\WKTechnology\Cliente\UConsultaCEP.pas</Transaction>
+  </Transactions>
+</BorlandProject>
